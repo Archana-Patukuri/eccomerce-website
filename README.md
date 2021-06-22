@@ -1,5 +1,5 @@
 # ecommerce-website
-Amazon clone e-Commerce website using Context API for manage the state, LocalStorage to persist the data, Firebase to serve the app, Firestore as a DB
+Amazon clone e-Commerce website using Context API for managing the state, LocalStorage to persist the data, Firebase to serve the app, Firestore as a DB
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
